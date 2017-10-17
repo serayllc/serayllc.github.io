@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firewall on Seray Network Solutions</title>
+    <link>https://Serayllc.github.io/tags/firewall/</link>
+    <description>Recent content in Firewall on Seray Network Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2017 21:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://Serayllc.github.io/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Costs of a firewall for Home or Small Business</title>
+      <link>https://Serayllc.github.io/blog/2017/08/costs-of-a-firewall-for-home-or-small-business/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/costs-of-a-firewall-for-home-or-small-business/</guid>
+      <description>The trend of malware being directly targeted to homes and small businesses continues to grow. 2016 was the year of ransomware and 2017 has been no better. You need a secure network to protect your family and your business.
+Here is a sample quote for a five user single location office with a local file server. This assumes that there is a basic network, PCs and a server in place.</description>
+    </item>
+    
+  </channel>
+</rss>

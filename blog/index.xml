@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Seray Network Solutions</title>
+    <link>https://Serayllc.github.io/blog/</link>
+    <description>Recent content in Blogs on Seray Network Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2017 21:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://Serayllc.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Backups</title>
+      <link>https://Serayllc.github.io/blog/2017/08/automated-backups/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/automated-backups/</guid>
+      <description>The Smart and Easy Way to Protect Your Data
+You can either tear out your hair when disaster strikes, or you can prepare ahead of time. Online backup services are one of the best ways to protect yourself against loss of computer data, whether it&amp;rsquo;s caused by a crashed hard drive, unintentional deletion, natural disaster, or ransomware attack.
+Our service technicians can install an online backup service on you PC that scans your drive for files which have changed since your last backup, encrypts them for security, and sends them up to high-storage-capacity servers attached to the internet.</description>
+    </item>
+    
+    <item>
+      <title>Costs of a firewall for Home or Small Business</title>
+      <link>https://Serayllc.github.io/blog/2017/08/costs-of-a-firewall-for-home-or-small-business/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/costs-of-a-firewall-for-home-or-small-business/</guid>
+      <description>The trend of malware being directly targeted to homes and small businesses continues to grow. 2016 was the year of ransomware and 2017 has been no better. You need a secure network to protect your family and your business.
+Here is a sample quote for a five user single location office with a local file server. This assumes that there is a basic network, PCs and a server in place.</description>
+    </item>
+    
+    <item>
+      <title>Safe Business Travel</title>
+      <link>https://Serayllc.github.io/blog/2017/08/safe-business-travel/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/safe-business-travel/</guid>
+      <description>Managers, owners and employees are all embracing the flexibility of working while traveling, making it the new global norm. While you are in the office, you are protected within a managed, secure network. As soon as you step away, those protections disappear, leaving your computing device and the data inside it at great risk.
+Cyber attackers love to collect data. Almost all data can be sold, your personal details, those of your clients and suppliers, and especially your proprietary business data.</description>
+    </item>
+    
+    <item>
+      <title>Safe Computing Tips</title>
+      <link>https://Serayllc.github.io/blog/2017/08/safe-computing-tips/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/safe-computing-tips/</guid>
+      <description>~ DONT’S DO NOT open e-mail attachments with the following file extensions, even if you know the sender: .ade .adp .asx .bas .bat .chm .cmd .com .cpl .crt .exe .hlp .hta .inf .isp .isp .js .jse .lnk .mda .mdb .mde .mdz .msc .msi .msp .mst .pcd .pif .prf .reg .scf .scr .sct .shb .shs .url .vb .vbe .vbs .wsc .wsf .wsh
+DO NOT use USB Drives before scanning with your antivirus software.</description>
+    </item>
+    
+    <item>
+      <title>Secure your Wireless Router</title>
+      <link>https://Serayllc.github.io/blog/2017/08/secure-your-wireless-router/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/secure-your-wireless-router/</guid>
+      <description>There are a number of steps you can take to stop a hacker from gaining entry to your home network.
+Change administrator passwords
+This is one of the most common points of entry for someone to gain access to your home network. The router you received from your ISP generally all come with a set number of Wi-Fi SSIDs and wireless keys – usually printed on the rear of the router.</description>
+    </item>
+    
+    <item>
+      <title>Small Business Security Basics</title>
+      <link>https://Serayllc.github.io/blog/2017/08/small-business-security-basics/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/small-business-security-basics/</guid>
+      <description>Cyber Security is an important subject for businesses of all sizes. Sometimes small businesses struggle with the idea of implementing a cyber security plan because of costs. If done right, these costs can be minimal and more importantly, the cost of a security breach can be avoided.
+Here are a few tips to help your small business:
+Train your employees
+Make sure your employees understand the consequences of their behavior. Teach them to protect customer, business and private data.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Serayllc.github.io/blog/1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/1/01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless on Seray Network Solutions</title>
+    <link>https://Serayllc.github.io/tags/wireless/</link>
+    <description>Recent content in Wireless on Seray Network Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2017 21:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://Serayllc.github.io/tags/wireless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure your Wireless Router</title>
+      <link>https://Serayllc.github.io/blog/2017/08/secure-your-wireless-router/</link>
+      <pubDate>Sun, 27 Aug 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://Serayllc.github.io/blog/2017/08/secure-your-wireless-router/</guid>
+      <description>There are a number of steps you can take to stop a hacker from gaining entry to your home network.
+Change administrator passwords
+This is one of the most common points of entry for someone to gain access to your home network. The router you received from your ISP generally all come with a set number of Wi-Fi SSIDs and wireless keys – usually printed on the rear of the router.</description>
+    </item>
+    
+  </channel>
+</rss>
